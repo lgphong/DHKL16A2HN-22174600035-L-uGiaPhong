@@ -1,0 +1,12 @@
+<congty>
+    <giamdoc>
+        <ten>Ten Giam Doc</ten>
+        <diachi>Dia Chi Giam Doc</diachi>
+        <dienthoai>So Dien Thoai Giam Doc</dienthoai>
+        <masothue>Ma So Thue Giam Doc</masothue>
+    </giamdoc>
+    <diachicongty>
+        <diachi>Địa chỉ Công ty</diachi>
+        <dienthoai>Điện thoại Công ty</dienthoai>
+    </diachicongty>
+</congty>

@@ -1,0 +1,16 @@
+<sinhvien>
+    <student>
+        <masv>SV001</masv>
+        <hoten>TenSinhVien</hoten>
+        <namsinh>2005</namsinh>
+        <lop>LopA</lop>
+        <gioitinh>Nam</gioitinh>
+    </student>
+    <student>
+        <masv>SV002</masv>
+        <hoten>TenSinhVien</hoten>
+        <namsinh>2005</namsinh>
+        <lop>LopB</lop>
+        <gioitinh>Nu</gioitinh>
+    </student>
+</sinhvien>
